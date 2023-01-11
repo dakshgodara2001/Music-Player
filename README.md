@@ -8,13 +8,11 @@ An android app that allows users to play digital audio files on their devices. T
 </p>
 
 ## Features
-
 - Play, pause, and skip tracks
 - Adjust volume and balance
 - Play songs online or from physical storage.
 
 ## Getting Started
-
 - Clone the repository and import the project into Android Studio.
 - Run the app on an emulator or physical device.
 - Make sure your device is set to allow installation.
@@ -22,10 +20,8 @@ An android app that allows users to play digital audio files on their devices. T
 - Browse and play your music library.
 
 ## Built With
-
 - [Kotlin](https://kotlinlang.org/) - The programming language used
 - [Android Studio](https://developer.android.com/studio) - The development environment
 
 ## Author
-
 * **[Daksh Godara]** - [GitHub Profile](https://github.com/dakshgodara2001)

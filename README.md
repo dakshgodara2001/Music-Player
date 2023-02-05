@@ -1,7 +1,7 @@
 # Music-Player-Android
 An android app that allows users to play digital audio files on their devices. The app provides a user interface for selecting and playing audio files, as well as various options for controlling playback.
 
-<p>
+<p align="center">
  <img src="https://github.com/dakshgodara2001/Music-Player/blob/main/images/Screenshot_20230111_005811.png" width="250" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Music-Player/blob/main/images/Screenshot_20230111_005846.png" width="250" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Music-Player/blob/main/images/Screenshot_20230111_010120.png" width="250" style="margin: 0 20px;"> 
